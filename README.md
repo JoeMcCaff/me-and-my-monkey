@@ -1,6 +1,6 @@
 # The Chicken Game
-                                                                                          Rules
-                                                                              1. Don't Look At The Chicken
+                                                              Rules
+                                                  1. Don't Look At The Chicken
                                                                                                                              
                                                              &@@@@@@@@@                                                                                                                                 
                                                          @@@,         .@@                                                                                                                               
